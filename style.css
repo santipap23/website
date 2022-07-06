@@ -33,3 +33,9 @@ footer {
 .headname2 {
   color: rgb(141, 177, 255);
 }
+
+.graphic{                    
+  background-image: url(images/chantaburi-cover.jpeg);
+  height: 360px;
+  padding: aouto;
+}
