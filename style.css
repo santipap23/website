@@ -43,3 +43,8 @@ footer {
 .maps{
    border: 1px solid slategrey ;
 }
+
+.top10{
+  background-color: aliceblue;
+  padding: 10px;
+}
