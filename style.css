@@ -21,8 +21,8 @@ footer {
 }
 
 .mainpage {
-      width: 1024px; 
-      margin: 0 auto;
+    width: 1024px; 
+    margin: 0 auto;
     }
 
 .headname1 {
@@ -31,11 +31,16 @@ footer {
 }
 
 .headname2 {
-  color: rgb(141, 177, 255);
+    color: rgb(141, 177, 255);
 }
 
 .graphic{                    
-  background-image: url(images/chantaburi-cover.jpeg);
-  height: 320px;
-  padding: aouto;
+    background-image: url(images/chantaburi-cover.jpeg);
+    height: 320px;
+    padding: aouto;
+}
+
+.maps{
+   border: 1px solid slategrey ;
+   height: 300px;
 }
