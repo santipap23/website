@@ -41,12 +41,17 @@ footer {
 }
 
 .maps{
-   border: 1px solid rgb(216, 236, 255) ;
-   height: 300px;
+    border: 1px solid rgb(216, 236, 255) ;
+    height: 300px;
 }
 
 .top10{
-  color: rgb(142, 180, 250);
-  background-color: rgb(255, 225, 225);
-  padding: 10px;
+   color: rgb(142, 180, 250);
+   background-color: rgb(255, 225, 225);
+   padding: 10px;
+}
+
+.img10{
+   width: 190px;
+   border-radius: 10px;
 }
