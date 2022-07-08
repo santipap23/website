@@ -41,11 +41,11 @@ footer {
 }
 
 .maps{
-   border: 1px solid slategrey ;
+   border: 1px solid rgb(216, 236, 255) ;
    height: 300px;
 }
 
 .top10{
-  background-color: aliceblue;
+  background-color: rgb(255, 252, 206);
   padding: 10px;
 }
