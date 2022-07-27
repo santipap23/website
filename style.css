@@ -60,3 +60,15 @@ footer {
    background-color: antiquewhite;
    height: 40px;
 }
+
+.Topmenu ul{
+    list-style: disc;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+}
+
+.topmenu li{
+    float: right;
+    padding: 10px 40px;
+}
