@@ -37,7 +37,7 @@ footer {
 .graphic{                    
     background-image: url(images/chantaburi-cover.jpeg);
     height: 320px;
-    padding: aouto;
+    padding: auto;
 }
 
 .maps{
