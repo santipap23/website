@@ -20,65 +20,64 @@ footer {
     text-align: center;
 }
 
-a{
-    color: rgb(70, 77, 114);
-    text-decoration: none;
-}
-
-.mainpage {
+a {
+    color: black;
+    text-emphasis: none;
+  }
+  .mainpage {
     width: 1024px; 
     margin: 0 auto;
     }
-
-.headname1 {
-    color: rgb(97, 145, 248);
+  
+  .headname1 {
+    color: rgb(255, 255, 255);
     font-size: 30px;
-}
-
-.headname2 {
+  }
+  
+  .headname2 {
     color: rgb(141, 177, 255);
-}
-
-.graphic{                    
+  }
+  
+  .graphic{                    
     background-image: url(images/chantaburi-cover.jpeg);
     height: 320px;
-    padding: auto;
-}
-
-.maps{
+    padding: aouto;
+  }
+  
+  .maps{
     border: 1px solid rgb(216, 236, 255) ;
     height: 300px;
-}
-
-.top10{
-   color: rgb(142, 180, 250);
-   background-color: rgb(255, 225, 225);
+  }
+  
+  .top10{
+   color: rgb(255, 255, 255);
+   background-color: rgb(255, 152, 152);
    padding: 10px;
-}
-
-.img10{
+  }
+  
+  .img10{
    width: 190px;
    border-radius: 10px;
-}
-
-.topmenu{
+  }
+  
+  .topmenu{
    background-color: antiquewhite;
    height: 40px;
-}
-
-.Topmenu ul{
+  }
+  
+  .topmenu ul{
     list-style: disc;
     margin: auto;
     display: flex;
     justify-content: left;
-}
-
-.topmenu li{
+  }
+  
+  .topmenu li{
     float: right;
     padding: 10px 40px;
-}
-
-.link10{
-    background-color: rgb(114, 199, 199);
+  }
+  
+  .link10 {
+    background-color: aliceblue;
     padding: 10px;
-}
+  }
