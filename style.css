@@ -20,6 +20,11 @@ footer {
     text-align: center;
 }
 
+a{
+    color: rgb(193, 202, 255);
+    text-decoration: none;
+}
+
 .mainpage {
     width: 1024px; 
     margin: 0 auto;
