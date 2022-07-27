@@ -21,7 +21,7 @@ footer {
 }
 
 a{
-    color: rgb(193, 202, 255);
+    color: rgb(70, 77, 114);
     text-decoration: none;
 }
 
@@ -76,4 +76,9 @@ a{
 .topmenu li{
     float: right;
     padding: 10px 40px;
+}
+
+.link10{
+    background-color: rgb(114, 199, 199);
+    padding: 10px;
 }
